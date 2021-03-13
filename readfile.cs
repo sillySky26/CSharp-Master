@@ -37,7 +37,7 @@ namespace createfile
                                              
                                             //Console.WriteLine(j); //debugging purposes
                                         }
-                                    else if(j == "B" ||j == "C" ||j == "D" ||j == "F" ||j == "G" ||j == "H" ||j == "H" ||j == "J" ||j == "K" ||j == "L" ||j == "M" ||j == "N" ||j == "P" ||j == "Q" ||j == "R" ||j == "S" ||j == "T" ||j == "V" ||j == "W" ||j == "X" ||j == "Y" || j == "Z") //checks consonants through filters
+                                    else if(j == "B" ||j == "C" ||j == "D" ||j == "F" ||j == "G" ||j == "H" ||j == "J" ||j == "K" ||j == "L" ||j == "M" ||j == "N" ||j == "P" ||j == "Q" ||j == "R" ||j == "S" ||j == "T" ||j == "V" ||j == "W" ||j == "X" ||j == "Y" || j == "Z") //checks consonants through filters
                                         {
                                             consonant++; //increments consonant count
                                             charCount++; //increments Character Count
